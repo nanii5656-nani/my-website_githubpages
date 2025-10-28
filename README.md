@@ -52,5 +52,10 @@ my-website/
 
 <img width="1919" height="745" alt="Screenshot 2025-10-28 155201" src="https://github.com/user-attachments/assets/e63703a9-8b10-4784-b66e-6e1b4478807a" />
 
+
+<img width="959" height="452" alt="image" src="https://github.com/user-attachments/assets/96711980-9398-48bb-96d2-3c4f712512db" />
+
+
+
 <img width="1906" height="985" alt="Screenshot 2025-10-28 155138" src="https://github.com/user-attachments/assets/94c2bf62-e82c-4e15-83b9-53ebe9db796d" />
 
